@@ -1,0 +1,15 @@
+/**
+  |============================
+  | include css partials with
+  | default @import "<name>.scss";
+  |============================
+*/
+@import "root.scss";
+@import "reset.scss";
+@import "header.scss";
+@import "about.scss";
+@import "store.scss";
+@import "delivery.scss";
+@import "blog.scss";
+@import "footer.scss";
+@import "modal.scss";
